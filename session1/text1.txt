@@ -1,5 +1,1 @@
-wewwwwwwwwhello dear
-hello world 
-yesss please
-helllooooooo
-wwwee
+this is file 1 and i am learning git bash commands
